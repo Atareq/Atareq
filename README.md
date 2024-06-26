@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ahmed Tareq</h1>
-<h3 align="center">A passionate Backend developer from Egypt</h3>
+<h3 align="center">Software engineer specializing in Backend development</h3>
 
-- 🌱 I’m currently learning **DJango**
+- 🌱 currently working with **DJango**
 
-- 👨‍💻 All of my projects are available at [Atareq.github.io](Atareq.github.io)
+- 👨‍💻 Most of my projects are available at [Atareq.github.io](Atareq.github.io)
 
 - 📫 How to reach me **tarekahmad8509@gmail.com**
 
