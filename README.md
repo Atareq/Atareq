@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed Tareq</h1>
 <h3 align="center">Software engineer specializing in Backend development</h3>
 
-- 🌱 currently working with **DJango**
+- 🌱 Currently working with **DJango**
 
 - 👨‍💻 Most of my projects are available at [Atareq.github.io](Atareq.github.io)
 
