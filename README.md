@@ -1,4 +1,4 @@
-# Ahmed Tareq
+# Ahmed Tarek
 
 **Backend Software Engineer** · Python · Django · PostgreSQL · Cairo, Egypt
 
